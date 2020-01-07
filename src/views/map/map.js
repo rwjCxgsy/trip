@@ -42,7 +42,7 @@ function start (container) {
                 });
                 polygons.push(polygon);
             }
-            // map.setFitView();//地图自适应
+            map.setFitView();//地图自适应
         }
     }
 
